@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const TextFormn = (props) => {
+const TextFormn = () => {
   const [textvalue, setTextvalue] = useState('');
 
   const handleuppercase = () => {
@@ -20,7 +20,7 @@ const TextFormn = (props) => {
   return (
     <>
       <div>
-        <h2>{props.Heading}</h2>
+        <h2>Enter a Text</h2>
         <textarea placeholder='Enter any Text' value={textvalue} onChange={handleOnChange} />
         <button onClick={handleuppercase}>Convert to Uppercase</button>
         <button onClick={handlelowercase}>Convert to Lowercase</button>
