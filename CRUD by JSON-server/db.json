@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "fname": "sunil",
+      "lname": "maurya",
+      "email": "sunil@gmail.com",
+      "password": "7894",
+      "id": 2
+    },
+    {
+      "fname": "vikas6543",
+      "lname": "verma ",
+      "email": "vikas@gmail.com",
+      "password": "8765",
+      "id": 3
+    },
+    {
+      "fname": "123",
+      "lname": "123",
+      "email": "123",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "fname": "kritika",
+      "lname": "vishwakarma",
+      "email": "kritika.vish2019@gmail.com",
+      "password": "123456789",
+      "id": 5
+    }
+  ]
+}
